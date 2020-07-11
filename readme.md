@@ -15,7 +15,7 @@ ishop is a e-commerce web application with PHP, Laravel & Vue.Your best e-commer
 
 - Good discounts / lower prices.
 
--- Get detailed information of the product.
+- Get detailed information of the product.
 
 
 
