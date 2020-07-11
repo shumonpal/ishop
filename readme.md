@@ -1,4 +1,4 @@
-<p align="center">Arrora Query</p>
+<p align="center">ishop</p>
 
 
 ## About ishop
